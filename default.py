@@ -12,7 +12,7 @@ import urllib
 
 # plugin constants
 __plugin__ = "xbmcflicks"
-__author__ = "teamumx"
+__author__ = "ALLTECH"
 __url__ = ""
 __svn_url__ = ""
 __useragent__ = ""
