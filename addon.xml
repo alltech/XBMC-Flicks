@@ -2,7 +2,7 @@
 <addon id="plugin.video.xbmcflicks"
        name="XBMC Flicks - Netflix for XBMC"
        version="1.0.23"
-       provider-name="TeamUMX">
+       provider-name="ALLTECH">
     <requires>
         <import addon="xbmc.python" version="1.0"/>
         <import addon="script.module.simplejson"/>
